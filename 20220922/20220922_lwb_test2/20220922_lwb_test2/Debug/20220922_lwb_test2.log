@@ -1,0 +1,4 @@
+﻿  20220922_lwb_test2.cpp
+D:\C-program\20220922\20220922_lwb_test2\20220922_lwb_test2\20220922_lwb_test2.cpp(16,43): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\C-program\20220922\20220922_lwb_test2\20220922_lwb_test2\20220922_lwb_test2.cpp(16,43): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  20220922_lwb_test2.vcxproj -> D:\C-program\20220922\20220922_lwb_test2\Debug\20220922_lwb_test2.exe
